@@ -1,1 +1,3 @@
-Create a script that creates an alias
+Create a scri
+
+pt that prints hello user, where user is the current Linux user
