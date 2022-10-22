@@ -1,1 +1,1 @@
-Write a script that sets the mode of the file hello the same as olleh
+Write a script that changes the owner to vincent and the group owner to staff
